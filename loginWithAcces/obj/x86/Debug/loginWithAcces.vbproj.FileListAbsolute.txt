@@ -1,0 +1,10 @@
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\bin\Debug\loginWithAcces.exe
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\bin\Debug\loginWithAcces.pdb
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\bin\Debug\loginWithAcces.xml
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.Form1.resources
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.Resources.resources
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.vbproj.GenerateResource.Cache
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.exe
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.xml
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.pdb
+C:\Users\Obot\Desktop\loginWithAcces\loginWithAcces\obj\x86\Debug\loginWithAcces.Form2.resources
